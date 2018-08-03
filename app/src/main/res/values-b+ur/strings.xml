@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">دنیا بھر</string>
+    <string name="navigation_drawer_open">1 دنیا بھر میں خواب</string>
+    <string name="navigation_drawer_close">2 دنیا بھر میں خواب</string>
+    <string name="nav_header_title">3 دنیا بھر میں خواب</string>
+    <string name="nav_header_subtitle">4 دنیا بھر میں خواب</string>
+    <string name="nav_header_desc">5 دنیا بھر میں خواب</string>
+    <string name="action_settings">6 دنیا بھر میں خواب</string>
+
+    <string name="ism">اسم</string>
+    <string name="fil">فعل</string>
+    <string name="harf">حرف</string>
+</resources>
